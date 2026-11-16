@@ -61,6 +61,13 @@
 **- Templates: HTML user interface**
 
 
+## Application Screenshots
+
+![WebTester Homepage](screenshots/homepage.png)
+
+![Testing Results](screenshots/results.png)
+
+
 
 **## How to Run**
 
